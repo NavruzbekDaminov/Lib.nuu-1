@@ -73,6 +73,7 @@ function Footer(props) {
                     <img src="../img/Creative bro.svg" alt=""/>
                 </a>
             </div>
+            <button>Submit</button>
         </div>
     );
 }
